@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Carolina sou estudante de Engenharia de Software.
+## Oiii! eu sou a Carolina estudante de engenharia de Software. Seja bem vindo !!!
  <div align="center>
   <a href="https://github.com/CarolinaCedro">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=CarolinaCedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
