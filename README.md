@@ -1,5 +1,5 @@
-<h1>Oiê, eu sou a Carolina 👋🏼</h1>
-<hr>
+<h3>Oiê, eu sou a Carolina 👋🏼</h3>
+
 Sou desenvolvedora iniciante Front-End e estudante de Engenharia de software. Apaixonada por Tecnologia !
  <div align="center>
   <a href="https://github.com/CarolinaCedro">
