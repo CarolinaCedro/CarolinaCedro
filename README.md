@@ -16,9 +16,9 @@ Sou desenvolvedora iniciante Front-End e estudante de Engenharia de software. Ap
 🙌🏼 Trabalho em equipe<br>
 
  <h2>Hobbies</h2>
-📖 Ler livros sobre ficção policial, mistério e desenvolvimento pessoal<br>
-👽 Ouvir podcast sobre ufologia<br>
-📺 Assistir séries sobre SciFi<br>
+📖 <br> 
+👽 <br>
+📺 <br>
 
  <h2>Me encontre também em:</h2>
  
