@@ -1,4 +1,6 @@
-## Hellow ! eu sou a Carolina estudante de engenharia de Software. Seja bem vindo !!!
+<h1>Oiê, eu sou a Carolina 👋🏼</h1>
+<hr>
+Sou desenvolvedora iniciante Front-End e estudante de Engenharia de software. Apaixonada por Tecnologia !
  <div align="center>
   <a href="https://github.com/CarolinaCedro">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=CarolinaCedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
