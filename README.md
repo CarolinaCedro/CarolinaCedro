@@ -1,4 +1,1 @@
-## Oiii! Eu sou Carolina Cedro
- <div>
-  <a href="https://github.com/CarolinaCedro">
- 
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
