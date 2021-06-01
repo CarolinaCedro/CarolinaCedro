@@ -7,6 +7,8 @@ Sou desenvolvedora iniciante Front-End e estudante de Engenharia de software. Ap
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaCedro&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
+ 
+ ![Snake animation](https://github.com/CarolinaCedro/CarolinaCedro/blob/output/github-contribution-grid-snake.svg)
   
 <h2>Meus valores</h2
 🧠 Desenvolvimento atencioso<br>
@@ -36,6 +38,6 @@ Sou desenvolvedora iniciante Front-End e estudante de Engenharia de software. Ap
 
 
 
-![Snake animation](https://github.com/CarolinaCedro/CarolinaCedro/blob/output/github-contribution-grid-snake.svg)
+
 
  </div>
