@@ -1,4 +1,4 @@
-<h2>Oiê, eu sou a Carol 👋🏼</h2> <hr>
+<h2>Oiê, eu sou a Carol 👋🏼</h2> 
 
 Sou desenvolvedora iniciante Front-End e estudante de Engenharia de software. Apaixonada por Tecnologia !
  <div align="center>
