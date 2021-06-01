@@ -8,7 +8,17 @@ Sou desenvolvedora iniciante Front-End e estudante de Engenharia de software. Ap
 <span>
 <div style="display: inline_block"><br>
   
-  
+  <h2>Meus valores</h2
+🧠 Desenvolvimento atencioso
+💡 Mentalidade de aprendizagem & curiosidade
+🙌🏼 Trabalho em equipe
+
+Hobbies
+📖 Ler livros sobre ficção policial, mistério e desenvolvimento pessoal
+👽 Ouvir podcast sobre ufologia
+📺 Assistir séries sobre SciFi
+
+ <h2>Me encontre também em:</h2>
   
   <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
