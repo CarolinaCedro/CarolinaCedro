@@ -13,7 +13,7 @@ Sou desenvolvedora iniciante Front-End e estudante de Engenharia de software. Ap
 <h2>Meus valores</h2
 🧠 Desenvolvimento atencioso<br>
 💡 Mentalidade de aprendizagem & curiosidade<br>
-🙌🏼 Trabalho em equipe<br>
+🙌🏼 Trabalho em equipe.<br>
 
  <h2>Hobbies</h2>
 📖 <br> 
