@@ -3,8 +3,8 @@
 Sou desenvolvedora iniciante Front-End e estudante de Engenharia de software!
  <div align="center">
   <a href="https://github.com/CarolinaCedro">
-  <img height="150em" padding-rigth="2rem"src="https://github-readme-stats.vercel.app/api?username=CarolinaCedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="color:green"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaCedro&layout=compact&langs_count=16&theme=dracula" color="blue"/>
+  <img height="150em" padding-rigth="2rem"src="https://github-readme-stats.vercel.app/api?username=CarolinaCedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="backgroud:green"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaCedro&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
  <div > 
