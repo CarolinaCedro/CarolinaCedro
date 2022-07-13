@@ -1,4 +1,4 @@
-<h2>Oiê, eu sou a Carol 👋🏼</h2> 
+<h2>Oiê, eu sou a Carol 👋🏼 </h2> 
 
 <p> Sou desenvolvedora newbie Front-End e estudante de Engenharia de software!</p>
  <div align="center">
