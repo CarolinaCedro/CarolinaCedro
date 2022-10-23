@@ -1,5 +1,6 @@
-<h2>Oiê, eu sou a Carol 👋🏼</h2> 
 [![@cedro's Holopin board](https://holopin.me/cedro)](https://holopin.io/@cedro)
+
+<h2>Oiê, eu sou a Carol 👋🏼</h2> 
 
 <p> Sou desenvolvedora e estudante de Engenharia de software! </p>
 
@@ -14,3 +15,5 @@
   <a href = "mailto: carolcedropessoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolina-cedro-37a361208/](https://www.linkedin.com/in/carol-cedro-37a361208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+ 
+ 
