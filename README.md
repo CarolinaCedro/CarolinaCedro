@@ -1,6 +1,8 @@
 <h2>Oiê, eu sou a Carol 👋🏼</h2> 
+[![@cedro's Holopin board](https://holopin.me/cedro)](https://holopin.io/@cedro)
 
 <p> Sou desenvolvedora e estudante de Engenharia de software! </p>
+
  <div align="center">
   <a href="https://github.com/CarolinaCedro">
   <img height="150em" padding-rigth="2rem"src="https://github-readme-stats.vercel.app/api?username=CarolinaCedro&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
